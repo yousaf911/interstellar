@@ -1,0 +1,4 @@
+git clone https://github.com/UseInterstellar/Interstellar
+cd Interstellar
+git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
+cd Interstellar
